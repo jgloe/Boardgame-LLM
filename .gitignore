@@ -1,0 +1,6 @@
+Testing.ipynb
+*.csv
+*.zip
+__pycache__/
+results/
+saved_models/
